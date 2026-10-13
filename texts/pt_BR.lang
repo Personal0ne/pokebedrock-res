@@ -51,35 +51,35 @@ item.pokeb:trade_holder_right=Direito do Titular Comercial
 item.pokeb:trade_monitor=Monitor de comércio
 item.pokeb:trade_panel=Painel Comercial
 
-tile.pokeb:bauxite_ore.name=minério de bauxita
+tile.pokeb:bauxite_ore.name=Minério de bauxita
 tile.pokeb:dawn_stone_ore.name=Minério de Pedra do Amanhecer
 tile.pokeb:dusk_ore.name=Minério do Crepúsculo
 tile.pokeb:fire_stone_ore.name=Minério de Pedra de Fogo
 tile.pokeb:lava_stone_ore.name=Minério de Pedra de Lava
-tile.pokeb:leaf_stone_ore.name=minério de folha
+tile.pokeb:leaf_stone_ore.name=Minério de folha
 tile.pokeb:moon_stone_ore.name=Minério de Pedra da Lua
 tile.pokeb:ruby_block.name=Bloco Rubi
-tile.pokeb:ruby_ore.name=minério de rubi
-tile.pokeb:silicon_ore.name=minério de silício
+tile.pokeb:ruby_ore.name=Minério de rubi
+tile.pokeb:silicon_ore.name=Minério de silício
 tile.pokeb:sun_stone_ore.name=Minério de Pedra do Sol
-tile.pokeb:thunder_stone_ore.name=minério de pedra do trovão
+tile.pokeb:thunder_stone_ore.name=Minério de pedra do trovão
 tile.pokeb:water_stone_ore.name=Minério de pedra de água
 
-item.pokeb:aluminum_ingot=lingote de alumínio
+item.pokeb:aluminum_ingot=Barra de alumínio
 item.pokeb:aluminum_plate=Placa de alumínio
 item.pokeb:aluminum_boots=botas de alumínio
 item.pokeb:aluminum_chestplate=peitoral de alumínio
 item.pokeb:aluminum_helmet=capacete de alumínio
-item.pokeb:aluminum_leggings=Perneiras de Alumínio
+item.pokeb:aluminum_leggings=Calças de Alumínio
 item.pokeb:dawn_stone_axe=Machado de Pedra do Amanhecer
-item.pokeb:dawn_stone_boots=Botas Dawn Stone
+item.pokeb:dawn_stone_boots=Botas De Pedra da Alvorada
 item.pokeb:dawn_stone_hammer=Martelo de Pedra do Amanhecer
 item.pokeb:dawn_stone_helm=Elmo de Pedra do Amanhecer
 item.pokeb:dawn_stone_legs=Pernas de Pedra do Amanhecer
 item.pokeb:dawn_stone_pickaxe=Picareta de Pedra do Amanhecer
 item.pokeb:dawn_stone_plate=Placa de Pedra do Amanhecer
-item.pokeb:dawnshovel=Dawnshovel
-item.pokeb:dawn_stone_sword=Espada de Pedra do Amanhecer
+item.pokeb:dawnshovel=Pá da Alvorada
+item.pokeb:dawn_stone_sword=Espada de Pedra da Alvorada
 item.pokeb:dusk_stone_axe=Machado de Pedra do Crepúsculo
 item.pokeb:dusk_stone_boots=Botas de Pedra do Crepúsculo
 item.pokeb:dusk_stone_hammer=Martelo de Pedra do Crepúsculo
@@ -146,14 +146,14 @@ item.pokeb:water_stone_plate=Placa de pedra d'água
 item.pokeb:water_stone_shovel=Pá de Pedra d'água
 item.pokeb:water_stone_sword=Espada de Pedra da Água
 
-item.ball:greatball=Bola excelente
-item.ball:greatball_lid=tampa grande bola
+item.ball:greatball=Grande bola
+item.ball:greatball_lid=Tampa de Grande bola
 item.pokeb:iron_base=Base de Ferro
-item.ball:masterball=Bola principal
-item.ball:pokeball=pokébola
-item.ball:pokeball_lid=Tampa de Pokébola
-item.ball:ultraball=ultraball
-item.ball:ultraball_lid=tampa ultraball
+item.ball:masterball= Mestre bola
+item.ball:pokeball=Poké Bola
+item.ball:pokeball_lid=Tampa de Poké bola
+item.ball:ultraball=Ultra bola
+item.ball:ultraball_lid=Tampa de Ultra bola
 
 item.pokeb:enigma_berry=Baga Enigma
 item.pokeb:mago_berry=Mago Berry
@@ -179,7 +179,7 @@ item.pokeb:rock_gem=pedra preciosa
 item.pokeb:steel_gem=Gema de Aço
 item.pokeb:water_gem=Gema da Água
 
-item.pokeb:dawn_sone_shard=Estilhaço de Som do Amanhecer
+item.pokeb:dawn_stone_shard=Estilhaço de Pedra da Alvorada
 item.pokeb:dawn-stone=Pedra do amanhecer
 item.pokeb:dusk-stone=Pedra do anoitecer
 item.pokeb:dusk_stone_shard=Fragmento de Pedra do Crepúsculo
@@ -189,40 +189,40 @@ item.pokeb:friendship-stone=Pedra da Amizade
 item.pokeb:ice-stone=pedra de gelo
 item.pokeb:leaf-stone=Folha de Pedra
 item.pokeb:leaf_stone_shard=Estilhaço de Pedra Folha
-item.pokeb:moon-stone=Moonstone
+item.pokeb:moon-stone=Pedra da Lua
 item.pokeb:moon_stone_shard=Fragmento de Pedra da Lua
-item.pokeb:shiny-stone=Pedra brilhante
+item.pokeb:shiny-stone=Pedra Brilhante
 item.pokeb:shiny_stone_shard=Estilhaço de Pedra Brilhante
 item.pokeb:sun-stone=Pedra do Sol
 item.pokeb:sun_stone_shard=Fragmento de Pedra do Sol
 item.pokeb:thunder-stone=Pedra do Trovão
 item.pokeb:thunder_stone_shard=Estilhaço de Pedra do Trovão
 item.pokeb:water-stone=Pedra D'Água
-item.pokeb:water_stone_shard=Estilhaço de Pedra de Água
+item.pokeb:water_stone_shard=Estilhaço de Pedra da Água
 
-item.pokeb:fullrestore=Restauração completa
-item.pokeb:hyper_potion=Hiper Poção
-item.pokeb:max_potion=Poção máxima
+item.pokeb:fullrestore=Restauração Total
+item.pokeb:hyper_potion=Hiperpoção
+item.pokeb:max_potion=Poção Máxima
 item.pokeb:potion=Poção
-item.pokeb:super_potion=Super Poção
-item.pokeb:rare_candy=doces raros
-item.pokeb:fresh_water=Água fresca
+item.pokeb:super_potion=Superpoção
+item.pokeb:rare_candy=Doce Raro
+item.pokeb:fresh_water=Água Fresca
 item.pokeb:lemonade=Limonada
 item.pokeb:moomoo_milk=Leite Moomoo
-item.pokeb:ragecandybar=Ragecandybar
-item.pokeb:sodapop=refrigerante
+item.pokeb:ragecandybar=Barra de Doce Rage
+item.pokeb:sodapop=Refrigerante
 
-item.pokeb:gui=gui
+item.pokeb:gui=GUI
 item.pokeb:pokedex=Pokédex
-item.pokeb:pokedollar=Pokedollar
+item.pokeb:pokedollar=Pokédolar
 item.pokeb:silicon=Silício
-item.pokeb:wailmer_pail=Wailmer Pail
+item.pokeb:wailmer_pail=Balde Wailmer
 
 item.pokeb:event_crate_key=§d§kii§r §f§lEvento §7Chave§r §d§kii§r
 item.pokeb:great_crate_key=§d§kii§r §9§lGrande §7Chave§r §d§kii§r
 item.pokeb:master_crate_key=§d§kii§r §5§lMestre §7Chave§r §d§kii§r
 item.pokeb:poke_crate_key=§d§kii§r §c§lPoké §7Chave§r §d§kii§r
-item.pokeb:ultra_crate_key=§d§kii§r §e§lUltra §7Key§r §d§kii§r
+item.pokeb:ultra_crate_key=§d§kii§r §e§lUltra §7Chave§r §d§kii§r
 
 item.spawn_egg.entity.pokemon:aerodactyl.name=Aerodáctilo
 item.spawn_egg.entity.pokemon:aipom.name=Aipom
@@ -467,7 +467,7 @@ item.spawn_egg.entity.pokemon:xatu.name=Xatu
 item.spawn_egg.entity.pokemon:zapdos.name=Zapdos
 item.spawn_egg.entity.pokemon:zubat.name=Zubat
 
-kick.fail.op=Você tentou chutar, mas não consegue!
+kick.fail.op=Tentativa de expulsão mal sucedida! certifique-se de que tem permissão para isso
 
 starter.charmander.description=Charmander: O Pokémon Chama. Adorável e cheio de fogo. Com altas estatísticas de velocidade e ataque, Charmander é uma escolha feroz para iniciar sua jornada Pokémon.
 starter.squirtle.description=Squirtle: O pequeno Pokémon Tartaruga. Adorável e resiliente, Squirtle é um Pokémon do tipo Água que dá um soco. Com altas estatísticas de defesa, Squirtle é uma escolha confiável para iniciar sua jornada Pokémon.
@@ -494,27 +494,27 @@ events.claimManager.interactWithGoldShovel.success=§aSucesso!, Você reivindico
 events.claimManager.interact.invalidPermission=§cVocê não pode interagir com esta reivindicação!
 
 events.entityHit.ball.pokemonInBattle=§cErro: Não é possível capturar este Pokémon. Atualmente está em batalha!
-events.entityHit.ball.pokemonSentOut=§cErro: Não é possível capturar este Pokémon. Este pokémon foi enviado.
-events.entityHit.battle.pokemonInBattle=§cErro: Não é possível iniciar a batalha com este Pokémon. Atualmente está em batalha!
-events.entityHit.battle.pokemonSentOut=§cErro: Não é possível iniciar a batalha com este Pokémon. Foi enviado e não pode participar de batalhas.
+events.entityHit.ball.pokemonSentOut=§cErro: Não é possível capturar este Pokémon. Este pokémon provavelmente é domesticado.
+events.entityHit.battle.pokemonInBattle=§cErro: Não é possível iniciar a batalha com este Pokémon. Atualmente se encontra em batalha!
+events.entityHit.battle.pokemonSentOut=§cErro: Não é possível iniciar a batalha com este Pokémon. tal qual foi enviado por alguém e não pode participar de batalhas.
 events.entityHit.getId=Identificação da entidade de ocorrência: "%s"
 
-events.lagClear.announce=[§fServer§r]§um servidor foi limpo de itens e Pokémon indomáveis!
-events.lagClear.announce.startingIn=[§fServer§r]§a Lag Clear Iniciando em %s!
+events.lagClear.announce=[§fServer§r]§um servidor foi limpo de itens e Pokémon selvagens!
+events.lagClear.announce.startingIn=[§fServer§r]§Limpeza de lags Iniciando em %s!
 
-events.moderate.frozen.alert=§bVocê está congelado, Motivo: %s
+events.moderate.frozen.alert=§bVocê está impedido, Motivo: %s
 
 events.interact_with_trainer.inBattle=§cEste treinador está em batalha e não pode ser interagido!
 
 events.setStarterPokemon.chosen=§a§lVocê escolheu §b§l%s
 
-forms.actionForm.show.timeout=§cForm Timeout: tentou mostrar o formulário, mas você estava ocupado (feche o chat após executar o comando)
+forms.actionForm.show.timeout=§cForm Timeout: Erro ao exibir formulário por tempo esgotado (feche o chat após executar o comando)
 
 forms.crate.noDataToShow=§cEsta caixa não tem dados para mostrar!
-forms.crate.edit.itemIdDoesNotExist=O item "%s" não existe no minecraft ou nos pacotes de comportamento conectado!
+forms.crate.edit.itemIdDoesNotExist=O item "%s" não existe no Minecraft ou nos pacotes de comportamento conectado!
 forms.crate.edit.dataMustBeNumber=Dados: %s, Deve ser um número!
 
-forms.kits.buy.confirmPurchase=Tem certeza de que deseja comprar o kit: %s§r por %s PokeDollars?
+forms.kits.buy.confirmPurchase=Tem certeza de que deseja comprar o kit: %s§r por %s PokéDólares?
 forms.kits.buy.notEnoughMoney=§cFalha ao comprar: %s§r§c, você não tem Poke Dollars suficientes!
 forms.kits.buy.success=§aKit comprado com sucesso %s§r§c -%s PokeDollars!
 forms.kits.claim.success=§aKit reivindicado: %s com sucesso! Reivindique novamente %s
@@ -524,23 +524,23 @@ forms.moderate.updatedRole=§aFunção atualizada para "${playerName}"!
 forms.moderate.updatedModerateData=§aDados moderados atualizados!
 
 forms.party.showPokemon.body=Selecione uma ação para executar neste pokémon.
-forms.party.showPokemon.location.error.pokemonFainted=§cErro: Pokémon desmaiou. Por favor, vá ao curador para restaurar a saúde.
-forms.party.showPokemon.location.sentOut=§aSucesso: Enviado §e%s!
+forms.party.showPokemon.location.error.pokemonFainted=§cErro: Pokémon desmaiou. Por favor, vá a infermeira para restaurar a saúde.
+forms.party.showPokemon.location.sentOut=§aSucesso: enviou §e%s!
 forms.party.showPokemon.location.retured=§aSucesso: Retornado §e%s!
 forms.party.showPokemon.location.notFound=§cErro: Pokémon não encontrado. Por favor, aproxime-se do Pokémon e tente novamente.
-forms.party.showPokemon.release.fail.mustHave1Pokemon=§cNão é possível liberar pokémon na natureza! Você deve ter 1 pokémon em você o tempo todo!
-forms.party.showPokemon.release.fail.pokemonSentOut=§cNão é possível liberar pokémon enquanto ele é enviado!
+forms.party.showPokemon.release.fail.mustHave1Pokemon=§cNão é possível liberar pokémon na natureza! Você sempre deve ter 1 pokémon em você o tempo todo!
+forms.party.showPokemon.release.fail.pokemonSentOut=§cNão é possível liberar pokémon enquanto ele está solto!
 forms.party.showPokemon.release.confirm=Tem certeza de que deseja liberar este pokémon na natureza, isso não pode ser desfeito!
 forms.party.showPokemon.release.success=§aLançado §e%s§a na natureza!
-forms.party.showPokemon.transferToPc.mustHave1Pokemon=§cNão é possível transferir para o PC! Você deve ter 1 pokémon em você o tempo todo!
-forms.party.showPokemon.transferToPc.pokemonSentOut=§cDevolva este pokémon antes de transferir!
+forms.party.showPokemon.transferToPc.mustHave1Pokemon=§cNão é possível transferir para o PC! Você sempre deve ter 1 pokémon em você o tempo todo!
+forms.party.showPokemon.transferToPc.pokemonSentOut=§cRecolha este pokémon antes de transferir!
 forms.party.showPokemon.transferToPc.success=Transferiu %s para o seu PC!
 forms.party.setNickName.fail.tooLong=§cErro: Apelido muito longo. O comprimento máximo permitido é de 10 caracteres.
 forms.party.setNickName.fail.firstMustBeLetter=§cErro: O primeiro caractere do apelido deve ser uma letra.
 
 forms.pc.preformActionOnPcPokemon.body=Selecione uma ação para executar neste Pokémon para PC!
-forms.pc.preformActionOnPcPokemon.fail.noOpenSlots=§cFalha ao transferir para o grupo, você não tem nenhum slot aberto!
-forms.pc.preformActionOnPcPokemon.button.AddToParty=Adicionar à festa
+forms.pc.preformActionOnPcPokemon.fail.noOpenSlots=§cFalha ao transferir para a Equipe, você não tem nenhum espaço sobrando!
+forms.pc.preformActionOnPcPokemon.button.AddToParty=Adicionar à equioe
 forms.pc.preformActionOnPcPokemon.button.trashPokemon=pokémon lixo
 forms.pc.preformActionOnPcPokemon.button.goBack=Volte
 
@@ -561,10 +561,10 @@ forms.trainerMenu.main.cannotReBattleTrainer=§cVocê não pode lutar contra est
 forms.trainerMenu.editBasicData.updated=§aDados básicos atualizados para o treinador!
 forms.trainerMenu.editDrops.confirmDelete=Tem certeza de que deseja excluir %s?
 forms.trainerMenu.editDrop.typeIdDoesNotExist="%s" não é um número de dados válido!
-forms.trainerMenu.editDrop.notVaildData="%s" não é um id de tipo de item válido, que está em minecraft ou pacotes de comportamento conectados.
+forms.trainerMenu.editDrop.notVaildData="%s" não é um id de tipo de item válido, que está em Minecraft ou pacotes de comportamento conectados.
 forms.trainerMenu.editDrop.notValidAmount="%s" não é um valor válido!
 
-models.battleUtils.runPokemonCatch.ballWasMissed=Bola fez falta!
+models.battleUtils.runPokemonCatch.ballWasMissed=Bola perdida!
 models.battleUtils.endBattleOrPokemonForm.title=Seu Pokémon Desmaiou
 models.battleUtils.endBattleOrPokemonForm.body=Seu pokémon acabou de desmaiar, para continuar termine a batalha ou troque de pokémon.
 models.battleUtils.choosePokemonForm.noAvailablePokemon.first=Não é possível iniciar a batalha porque você não tem nenhum pokémon disponível!
@@ -575,48 +575,48 @@ models.playersPokemon.checkForLevelUp.levelUp=%s evoluiu para %s!
 
 models.playerVsPlayerBattle.fail.noAvailablePokemon=Você fugiu da batalha!
 models.playerVsPlayerBattle.stop.ranFromBattle=Você fugiu da batalha!
-models.playerVsPlayerBattle.stop.playerRanFromBattle=Você perdeu!
-models.playerVsPlayerBattle.stop.playerLost=Você ganhou!
+models.playerVsPlayerBattle.stop.playerRanFromBattle=Você foi derrotado!
+models.playerVsPlayerBattle.stop.playerLost=Você conseguiu!
 
 
-models.playerVsPokemonBattle.fail.noAvailablePokemon=A batalha terminou
+models.playerVsPokemonBattle.fail.noAvailablePokemon=A batalha encerrou
 models.playerVsPokemonBattle.end=§a%s ganhou §e%s xp!
 models.playerVsPokemonBattle.pokemonDied=§cFalha ao iniciar a batalha. Experimente um pokémon diferente!
 
 
 models.playerVsTrainerBattle.fail.noAvailablePokemon=§a%s ganhou §e%s xp!
-models.playerVsTrainerBattle.end.gainedExp=§aVocê ganhou %sx PokeDollar's!
+models.playerVsTrainerBattle.end.gainedExp=§aVocê ganhou %sx PokeDollares!
 
 
-commands.battle.player.fail.self=§a"%s" enviou a você uma solicitação de batalha, digite "-battle accept" para aceitar esta solicitação
-commands.battle.player.success=§cFalha ao aceitar solicitação, você não tem solicitações In-Bound!
+commands.battle.player.fail.self=§a"%s" enviou a você solicitação de duelo, digite "-battle accept" para aceitar este desafio
+commands.battle.player.success=§cFalha ao aceitar batalha, você não tem solicitação de batalhas em aberto!
 commands.battle.accept.fail.noInBoundRequests=§cFalha ao aceitar solicitação, O jogador que enviou esta solicitação não está no jogo!
-commands.battle.accept.fail.playerNotInGame=§cErro: Não é possível iniciar a batalha com este jogador. O jogador está atualmente em batalha!
+commands.battle.accept.fail.playerNotInGame=§cErro: Não é possível iniciar a batalha com este jogador. O jogador está ocupado em batalha!
 commands.battle.accept.fail.playerInBattle=§aPedido de batalha aceito de "%s"!
 commands.battle.accept.success.sender=§a"%s" aceitou seu pedido de batalha!
-commands.battle.accept.success.fromPlayer=§cFalha ao negar solicitação, você não tem solicitações In-Bound!
-commands.battle.deny.fail.noInBoundRequests=§aNegou sua solicitação Tp de entrada!
-commands.battle.deny.success=§a"%s" Solicitações de batalha para você agora estão definidas como %s
+commands.battle.accept.success.fromPlayer=§cFalha ao negar duelo, você não tem solicitações em aberto!
+commands.battle.deny.fail.noInBoundRequests=§aNegou sua solicitação teletransporte em aberto!
+commands.battle.deny.success=§a"%s" Solicitações de duelo definidas como %s
 commands.battle.toggle.success=§cFalha ao sair da batalha. Você não está em uma batalha no momento!
-commands.battle.leave.fail.notInBattle=§aFim da batalha em que você estava!
+commands.battle.leave.fail.notInBattle=§aFim do duelo em que você estava!
 
 
 commands.chatRank.set.success=§aClassificação adicionada: %s para "%s"!
 
 
-commands.claim.trust.player.fail.notOwnAnyClaims=§cO erro não pode alterar os trusts para esta reivindicação. Você não é o proprietário desta reivindicação!
+commands.claim.trust.player.fail.notOwnAnyClaims=§cErro, voce não pode conceder confiança a  este jogador por não possuir a reivindicação!
 commands.claim.trust.player.fail.doNotOwnClaim=§cErro, "%s" já é confiável na reivindicação em que você está!
-commands.claim.trust.player.fail.playerAlreadyTrusted=§aConfiou em "%s" para a reivindicação em que você está.
-commands.claim.trust.player.success.toClaimIn=§aConfiou em "%s" para todas as suas reivindicações.
-commands.claim.trust.player.success.toAllClaims=§cErro, você não tem direito de deixar de confiar neste jogador??? o que você está pensando? eu não deveria ter que fazer esta mensagem de erro, mas eu fiz isso por sua causa, idk como você bagunça tanto.
-commands.claim.unTrust.playerName.fail.notOwnAnyClaims=§cO erro não pode alterar os trusts para esta reivindicação. Você não é o proprietário desta reivindicação!
+commands.claim.trust.player.fail.playerAlreadyTrusted=§aConcedido em confiança à "%s" para a reivindicação em que você está.
+commands.claim.trust.player.success.toClaimIn=§aConcedeu confiança à "%s" para todas as suas reivindicações.
+commands.claim.trust.player.success.toAllClaims=§cErro, você não tem o direito de deixar de confiar neste jogador!!! Quem vocẽ pensa que é agora? Sr. Burns? eu tenho mesmo que criar essa mensagem de erro?, eu fiz isso por sua causa, Não entendo como vocês complicam tudo!.
+commands.claim.unTrust.playerName.fail.notOwnAnyClaims=§cErro, não pode alterar opções de confiança para esta reivindicação. Você não é o proprietário!
 commands.claim.unTrust.playerName.fail.doNotOwnClaim=§cErro, "%s" não é confiável no momento!
-commands.claim.unTrust.playerName.fail.playerNotTrusted=§aNão confiável "%s" para a reivindicação em que você está.
+commands.claim.unTrust.playerName.fail.playerNotTrusted=§aRetirar confiança em "%s" para esta reinvidicação.
 commands.claim.unTrust.playerName.success.toClaimIn=§aNão confiável "%s" para todas as suas reivindicações.
 commands.claim.unTrust.playerName.success.toAllClaims=§cErro, você precisa estar em uma reivindicação para abandoná-lo!
 commands.claim.abandon.fail.notInClaim=§cError não pode abandonar esta reivindicação, você não possui esta reivindicação!
-commands.claim.abandon.fail.doNotOwn=Tem certeza de que deseja excluir a reivindicação em que está atualmente, isso não pode ser desfeito!
-commands.claim.abandon.confirm=§aAbandonou a reivindicação em que você estava atualmente com sucesso.
+commands.claim.abandon.fail.doNotOwn=Tem certeza de que deseja excluir a reivindicação em que está atualmente? isso não pode ser desfeito!
+commands.claim.abandon.confirm=§aRenunciado a reivindicação em que você estava atualmente com sucesso.
 commands.claim.abandon.success=§cVocê não possui nenhuma reivindicação para remover
 commands.claim.abandonAll.fail.notOwnAnyClaims=Tem certeza de que deseja abandonar todas as reivindicações que possui atualmente?
 commands.claim.abandonAll.confirm=§aAbandonou todas as suas reivindicações com sucesso.
@@ -634,13 +634,13 @@ commands.moderate.formRequested=§aFormulário solicitado, feche o chat para def
 
 
 
-commands.warp.formRequested=§aTransformado em: %s!
+commands.warp.formRequested=§aTransportado para: %s!
 
 
 
 
-commands.serverWarp.set.success=§aForm solicitado, feche o chat para definir o warp.
-commands.serverWarp.set.formRequested=§aDeleted Server warp: "%s" com sucesso!
+commands.serverWarp.set.success=§aForm solicitado, feche o chat para definir o transporte.
+commands.serverWarp.set.formRequested=§aTeletransporte do servidor deletado: "%s" com sucesso!
 commands.serverWarp.delete.success=§cFalha ao excluir o warp do servidor: "%s"!
 
 
@@ -663,7 +663,7 @@ commands.balance.set.success=§aAtualizado "%s" PokeDollars para %s!
 commands.lag.request.fail=§cVocê já solicitou, Status: %s/%s.
 
 
-commands.floatingText.spawn.success=§aDespawned todo o texto flutuante em sua localização!
+commands.floatingText.spawn.success=§aremover todo o texto flutuante em sua localização!
 commands.floatingText.despawn.success=§cFalha ao eliminar todo o texto flutuante em sua localização! %s
 
 
@@ -680,5 +680,5 @@ commands.pay.fail.insufficientFunds=§aPagou "%s" %sx PokeDollars!
 
 
 commands.seen.onlineRightNow=§c%s foi visto pela última vez neste servidor %s
-commands.seen.lastSeen=§o primeiro logon de c%s foi %s
+commands.seen.lastSeen=§o primeiro acesso de c%s foi em%s
 
